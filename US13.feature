@@ -4,7 +4,6 @@ Feature: Registrarse en la landing page
     Quiero poder registrarme en la landing page utilizando mi correo electrónico
     Para acceder a funciones adicionales o recibir información relevante.
 
-
 Scenario: Registro exitoso
     Given que soy un usuario interesado en los productos/servicios de la empresa y deseo registrarme en la landing page
     When encuentro claramente la opción de registrarme y proporciono mi correo electrónico y otros datos necesarios
