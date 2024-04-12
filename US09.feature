@@ -1,11 +1,8 @@
 Feature: Visualizar la landing page de la empresa
 
     Como usuario interesado en los productos/servicios de la empresa,
-
     Quiero poder ver la landing page para obtener información relevante y
-
-    Para que
-    decidir si quiero registrarme o contactar a la empresa.
+    Para que decidir si quiero registrarme o contactar a la empresa.
 
 Scenario: Visualización exitosa de la landing page
     Given que soy un usuario interesado en los productos/servicios de la empresa
